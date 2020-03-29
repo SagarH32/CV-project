@@ -74,7 +74,7 @@ float: right;
 }
 .common-hr{
     width: 100%;
-    border: solid black 1px;
+    border: solid black 2px;
     border-bottom: none;
     margin: 0 auto;
     margin-top: 30px;
